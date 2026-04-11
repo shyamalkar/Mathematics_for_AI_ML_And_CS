@@ -1,6 +1,7 @@
 # Mathematics_for_AI_ML_And_CS
 "I gonna cover all AI and ML topics in this repository "
 
+"Warning :- If you are having trouble opening my repository, copy the link of the file you want to open, press this link 👉🏿  https://nbviewer.org/ " and paste link and click on Go . 
 
 I gonna share you something related with Math . I share my Math road map just stay with me . 
  
