@@ -16,7 +16,7 @@ mathematics and later I will upload the advanced maths, follow this page to cont
                                              Systems o f linear equations and Gaussian elimination
                                             
                                              Determinants (basic properties and when a matrix is invertible)
-                                            
+                                             
                                              Eigenvalues and Eigenvectors (concept + how t o compute for 2x2 matrices)
                                             
                                              Singular Value Decomposition (SVD) - at least the intuition and its use in PCA
